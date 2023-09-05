@@ -32,6 +32,12 @@ h1 {
 .one link:hover, .one link:focus{
     color:#404bbf;
 }
+.two {
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    
+}
 
  
 
