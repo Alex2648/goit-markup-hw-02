@@ -29,7 +29,7 @@ h1 {
     letter-spacing: 0.02em;
     color: #2e2f42;
     }
-.one link:hover{
+.one link:hover, .one link:focus{
     color:#404bbf;
 }
 
