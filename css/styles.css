@@ -134,6 +134,24 @@ background-color: #404BBF;
     font-size: 16px;
 }
 
+/*footer*/
+.keller {
+    background-color: #2e2f42;
+}
+.logounten {
+    color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+
+.span {
+    color: #f4f4fd;
+}
 
  
 
