@@ -43,6 +43,12 @@ h1 {
     color:#434455;
 
 }
+.adres_mail {
+    color: #434455;
+}
+.adres_mail:hover,:focus {
+    color: #404bbf;
+}
 
 /**one section**/
 .her {
