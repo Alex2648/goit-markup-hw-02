@@ -149,8 +149,13 @@ background-color: #404BBF;
     text-transform: uppercase;
 }
 
-.span {
+.spanunten {
     color: #f4f4fd;
+}
+.end {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
 
  
