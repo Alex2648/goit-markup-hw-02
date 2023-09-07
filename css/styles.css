@@ -51,13 +51,16 @@ h1 {
 }
 
 /**one section**/
+.one_sec {
+    background-color: #2e2f42;
+}
 .her {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
-    background-color:#2e2f42;
+    
 
 }
 .butt {
@@ -69,6 +72,9 @@ h1 {
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
+}
+.butt:hover, :focus {
+background-color: #404BBF;
 }
 /**two section**/
 .out {
